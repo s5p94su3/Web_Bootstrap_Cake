@@ -1,0 +1,21 @@
+body{
+    background: rgb(225, 178, 236);
+}
+h1{
+    color: rgb(34, 36, 37);
+    font-size: 40px;
+}
+h5{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.bd-example img{
+    height: 500px;
+    object-fit: cover
+}
+footer{
+height: 100px;
+color: #000;
+line-height: 5;
+
+}
